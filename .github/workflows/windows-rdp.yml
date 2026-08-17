@@ -55,5 +55,3 @@ jobs:
             Write-Host "[$i/360] Server running..."
           }
 
-
-TAILSCALE_AUTHKEY
